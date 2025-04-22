@@ -51,7 +51,21 @@ Distributed through the Evil Mad Scientist Shop, this kit supports art, educatio
 4. **Test the Circuit**  
    Plug the finished board into a standard 555 timer circuit (e.g., an astable multivibrator) to verify proper operation.
 
-> Detailed schematics and step‑by‑step photos are available on the Evil Mad Scientist Wiki.
+> Detailed schematics and step‑by‑step photos are available on the Evil Mad Scientist Wiki:  
+> - [Three Fives Assembly Instructions (1.4 MB PDF)](https://cdn.evilmadscientist.com/KitInstrux/555/555_instrux_RevB1.pdf) :contentReference[oaicite:0]{index=0}  
+> - [Three Fives Kit Data Sheet (1.7 MB PDF)](https://cdn.evilmadscientist.com/KitInstrux/555/555_datasheet_rev30d.pdf) :contentReference[oaicite:1]{index=1}
+
+## Example Applications
+
+- **Astable Multivibrator**  
+  Blink LEDs or generate audio tones with a square‑wave oscillator.
+
+- **Monostable Timer**  
+  Create a one‑shot delay circuit to trigger events after a set interval.
+
+- **PWM Generator**  
+  Drive motors or dim LEDs by adjusting pulse‑width modulation.
+
 
 ## Example Applications
 
