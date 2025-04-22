@@ -1,64 +1,65 @@
-# 555Kit
-The 741SE Discrete 741 Op-Amp Surface mount soldering kit: A transistor-scale replica of the classic analog workhorse.
-
-# 555SE Discrete 555 Timer Kit
-
-:contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
+# Three Fives Discrete 555 Timer Kit
 
 ## Overview
 
-:contentReference[oaicite:3]{index=3} :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
+The Three Fives kit is a faithful, transistor‑scale replica of the classic NE555 timer IC, one of the most iconic and popular integrated circuits ever made. This open‑source hardware project by Evil Mad Scientist is designed for education, art, and DIY electronics enthusiasts. Assemble individual transistors, resistors, and diodes to build a fully functional discrete 555 timer and gain hands‑on insight into analog circuit design.
+
+Distributed through the Evil Mad Scientist Shop, this kit supports art, education, and accessibility initiatives.
+
+## Features
+
+- **Transistor‑Scale Replica**  
+  Fully functional discrete implementation of the NE555 using 22 transistors, 15 resistors, and 2 diodes.
+
+- **Educational Tool**  
+  Learn the inner workings of the 555 timer and analog electronics through hands‑on assembly.
+
+- **Versatile Applications**  
+  Use in astable oscillators, monostable one‑shot timers, PWM generators, and more.
+
+- **Open‑Source Hardware**  
+  Complete schematics, PCB layouts, and documentation available for study and modification.
+
+- **Through‑Hole Design**  
+  Easy to assemble with standard soldering tools; suitable for beginners and experienced builders.
+
+- **Compact Size**  
+  PCB measures approximately 2.6 × 1.3 inches, ideal for embedding into your own projects.
 
 ## Kit Contents
 
-- :contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9}
-- :contentReference[oaicite:10]{index=10}
-- :contentReference[oaicite:11]{index=11}
-- :contentReference[oaicite:12]{index=12}
-- :contentReference[oaicite:13]{index=13}
-- :contentReference[oaicite:14]{index=14}
-- :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
-
-## Required Tools
-
-- :contentReference[oaicite:17]{index=17}
-- :contentReference[oaicite:18]{index=18}
-- :contentReference[oaicite:19]{index=19}
-- :contentReference[oaicite:20]{index=20}
-- :contentReference[oaicite:21]{index=21}&#8203;:contentReference[oaicite:22]{index=22}
+- 1× Three Fives PCB  
+- 22× NPN & PNP transistors  
+- 15× Resistors  
+- 2× Diodes  
+- 1× Ceramic capacitor  
+- 1× Instruction manual  
 
 ## Assembly Instructions
 
-:contentReference[oaicite:23]{index=23} :contentReference[oaicite:24]{index=24} :contentReference[oaicite:25]{index=25} :contentReference[oaicite:26]{index=26}&#8203;:contentReference[oaicite:27]{index=27}
+1. **Gather Tools**  
+   Soldering iron, solder, wire cutters, and a well‑ventilated workspace.
 
-:contentReference[oaicite:28]{index=28}&#8203;:contentReference[oaicite:29]{index=29}
+2. **Follow the Manual**  
+   Step‑by‑step guidance for placing and soldering each component correctly.
 
-## Using the 555SE Discrete 555 Timer
+3. **Component Placement**  
+   - Start with resistors and diodes  
+   - Add transistors  
+   - Finish with the capacitor
 
-:contentReference[oaicite:30]{index=30} :contentReference[oaicite:31]{index=31} :contentReference[oaicite:32]{index=32}&#8203;:contentReference[oaicite:33]{index=33}
+4. **Test the Circuit**  
+   Plug the finished board into a standard 555 timer circuit (e.g., an astable multivibrator) to verify proper operation.
 
-:contentReference[oaicite:34]{index=34}&#8203;:contentReference[oaicite:35]{index=35}
+> Detailed schematics and step‑by‑step photos are available on the Evil Mad Scientist Wiki.
 
-## Additional Specifications
+## Example Applications
 
-- **PCB Dimensions**: :contentReference[oaicite:36]{index=36}
-- **PCB Thickness**: :contentReference[oaicite:37]{index=37}
-- **Assembled Kit Dimensions**: :contentReference[oaicite:38]{index=38}
-- **Materials**:
-  - :contentReference[oaicite:39]{index=39}
-  - :contentReference[oaicite:40]{index=40}
-  - :contentReference[oaicite:41]{index=41}
-- **RoHS Compliant**: :contentReference[oaicite:42]{index=42}&#8203;:contentReference[oaicite:43]{index=43}
+- **Astable Multivibrator**  
+  Blink LEDs or generate audio tones with a square‑wave oscillator.
 
-## License
+- **Monostable Timer**  
+  Create a one‑shot delay circuit to trigger events after a set interval.
 
-:contentReference[oaicite:44]{index=44} :contentReference[oaicite:45]{index=45}&#8203;:contentReference[oaicite:46]{index=46}
-
----
-
-:contentReference[oaicite:47]{index=47}&#8203;:contentReference[oaicite:48]{index=48}
-
-
-::contentReference[oaicite:49]{index=49}
-:contentReference[oaicite:50]{index=50}
+- **PWM Generator**  
+  Drive motors or dim LEDs by adjusting pulse‑width modulation.
