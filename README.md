@@ -52,8 +52,9 @@ Distributed through the Evil Mad Scientist Shop, this kit supports art, educatio
    Plug the finished board into a standard 555 timer circuit (e.g., an astable multivibrator) to verify proper operation.
 
 > Detailed schematics and step‑by‑step photos are available on the Evil Mad Scientist Wiki:  
-> - [Three Fives Assembly Instructions (1.4 MB PDF)](https://cdn.evilmadscientist.com/KitInstrux/555/555_instrux_RevB1.pdf) :contentReference[oaicite:0]{index=0}  
-> - [Three Fives Kit Data Sheet (1.7 MB PDF)](https://cdn.evilmadscientist.com/KitInstrux/555/555_datasheet_rev30d.pdf) :contentReference[oaicite:1]{index=1}
+> - [Additional specifications are given in the kit's datasheet](https://cdn.evilmadscientist.com/KitInstrux/555/555_datasheet_rev30d.pdf) :contentReference[oaicite:0]{index=0}  
+> - [Kit assembly instructions](https://cdn.evilmadscientist.com/KitInstrux/555/555SE_assy_1.pdf) :contentReference[oaicite:1]{index=1}
+> - [Principles of Operation](https://cdn.evilmadscientist.com/KitInstrux/555/555_principles_rev30.pdf):contentReference[oaicite:1]{index=2}
 
 ## Example Applications
 
